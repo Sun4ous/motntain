@@ -83,3 +83,15 @@ background: url(../img/m_1.png) 0 0 / cover no-repeat;
 .content_article p {
 	margin-bottom: 20px;
 }
+@media(max-width:768px){
+	.content__title{
+		font-size: 60px;
+		
+	}
+	.content__subtitle{
+		font-size: 40px;
+	}
+	
+
+	
+}
