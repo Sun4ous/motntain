@@ -91,6 +91,9 @@ background: url(../img/m_1.png) 0 0 / cover no-repeat;
 	.content__subtitle{
 		font-size: 40px;
 	}
+		.content_article p {
+		font-size: 12px;
+	}
 	
 
 	
